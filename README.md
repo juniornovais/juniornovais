@@ -5,9 +5,9 @@
 <br>
 🎓 Atualmente, curso Sistemas de Informação na Unex.
 <br>
-💻 Sou apaixonado por tecnologia, principalmente desenvolvimento web, e estou sempre buscando evoluir minhas habilidades em programação.
+💻 Sou apaixonado por tecnologia, principalmente desenvolvimento backend, e estou sempre buscando evoluir minhas habilidades em programação.
 <br>
-🚀 Aqui no GitHub, compartilho meus projetos pessoais, estudos e experimentos com front-end, back-end e API's.
+🚀 Aqui no GitHub, compartilho meus projetos pessoais, estudos e experimentos com back-end, front-end e API's.
 <br>
 🔍 Meu objetivo é me tornar um desenvolvedor full-stack completo, com foco em soluções modernas, seguras e inteligentes.
 <br>
