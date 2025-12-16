@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Junior Novais
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Back-End`**
 👋 Olá! Me chamo Adailton Junior Novais Mafra, tenho 18 anos e sou natural da Bahia.
 <br>
 🎓 Atualmente, curso Sistemas de Informação na Unex.
